@@ -5,5 +5,5 @@
 
 <h2> Made with 
 
-1. [React](https://github.com/facebook/react)
-   [
+* [React](https://github.com/facebook/react)
+   
