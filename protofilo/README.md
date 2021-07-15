@@ -21,7 +21,7 @@ Lawliet - Helped me with animations and stuff
 
 ## Languages Used
 * **Node.js**
-* **Css3**
+* **Css**
 * **Html**
 
 
