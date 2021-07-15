@@ -14,7 +14,7 @@
 
 
 ## Contributors
-> **MrCoku - Helped me a lot with frontend**
+> **MrCoku - Helped me a lot with frontend**\
 > **Lawliet - Helped me with animations and stuff**
 
 
